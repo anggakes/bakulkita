@@ -1,0 +1,808 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-22 17:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: single.php:32 single.php:107 single.php:117 index.php:67
+msgid " Comments"
+msgstr ""
+
+#: index.php:24 template/maintance.php:67
+msgid "Page not found"
+msgstr ""
+
+#: index.php:75
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: functions.php:52
+msgid "Top menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Onepage menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Onepage slider menu"
+msgstr ""
+
+#: functions.php:75
+#, php-format
+msgid ""
+"ANTICA theme needs minimal WordPress version 4.3 and PHP 5.3<br>You are "
+"running version WordPress - %s, PHP - %s.<br>Please upgrade need module and "
+"try again."
+msgstr ""
+
+#: comments.php:16
+msgid "Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:28
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:33
+msgid "Name"
+msgstr ""
+
+#: comments.php:34
+msgid "Email"
+msgstr ""
+
+#: comments.php:36
+msgid "Message"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:43
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:44
+msgid "Send message"
+msgstr ""
+
+#: 404.php:26
+msgid "Page not found "
+msgstr ""
+
+#: include/custom/action-config.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: include/custom/action-config.php:35
+msgid "Drag the widgets for sidebars."
+msgstr ""
+
+#: include/custom/action-config.php:117
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/custom/action-config.php:126
+msgid "Visual Composer"
+msgstr ""
+
+#: include/custom/action-config.php:136
+msgid "Antica Plugins"
+msgstr ""
+
+#: include/custom/helper-functions.php:31
+msgid "Please register Top Navigation from"
+msgstr ""
+
+#: include/custom/helper-functions.php:31
+msgid "Appearance &gt; Menus"
+msgstr ""
+
+#: include/custom/helper-functions.php:84
+msgid "Read more"
+msgstr ""
+
+#: include/custom/helper-functions.php:181
+msgid "Pingback:"
+msgstr ""
+
+#: include/custom/helper-functions.php:182
+msgid "(Edit)"
+msgstr ""
+
+#: include/custom/helper-functions.php:195
+msgid "Reply"
+msgstr ""
+
+#: include/custom/helper-functions.php:227
+msgid "Home"
+msgstr ""
+
+#: include/custom/helper-functions.php:257
+msgid "404"
+msgstr ""
+
+#: include/custom/importer/index.php:72 include/custom/importer/index.php:72
+msgid "Import Demo Data"
+msgstr ""
+
+#: include/custom/importer/index.php:94
+msgid "...verifying"
+msgstr ""
+
+#: include/custom/importer/index.php:104
+msgid "Introduction"
+msgstr ""
+
+#: include/custom/importer/index.php:111
+msgid "Plugins"
+msgstr ""
+
+#: include/custom/importer/index.php:117
+msgid "Content"
+msgstr ""
+
+#: include/custom/importer/index.php:122
+msgid "Customize"
+msgstr ""
+
+#: include/custom/importer/index.php:127
+msgid "Support"
+msgstr ""
+
+#: include/custom/importer/index.php:132
+msgid "Ready!"
+msgstr ""
+
+#: include/custom/importer/index.php:166
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: include/custom/importer/index.php:251
+msgid "Current Settings:"
+msgstr ""
+
+#: include/custom/importer/index.php:252
+msgid "Widget Positions:"
+msgstr ""
+
+#: include/custom/importer/index.php:254
+msgid "Widget Options:"
+msgstr ""
+
+#: include/custom/importer/index.php:256
+msgid "Menu IDs:"
+msgstr ""
+
+#: include/custom/importer/index.php:258
+msgid "Custom Options:"
+msgstr ""
+
+#: include/custom/importer/index.php:260
+msgid ""
+"Copy these values into your PHP code when distributing/updating the theme."
+msgstr ""
+
+#: include/custom/importer/index.php:264
+msgid "Welcome to the setup themes!"
+msgstr ""
+
+#: include/custom/importer/index.php:265
+msgid ""
+"This quick setup wizard will help you configure your new website. This "
+"wizard will install the required WordPress plugins, default content, logo "
+"and tell you a little about Help &amp; Support options. It should only take "
+"5 minutes."
+msgstr ""
+
+#: include/custom/importer/index.php:266
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: include/custom/importer/index.php:269
+msgid "Let's Go!"
+msgstr ""
+
+#: include/custom/importer/index.php:271
+msgid "Not right now"
+msgstr ""
+
+#: include/custom/importer/index.php:343
+msgid "Default Plugins"
+msgstr ""
+
+#: include/custom/importer/index.php:350
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed:"
+msgstr ""
+
+#: include/custom/importer/index.php:369
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: include/custom/importer/index.php:372
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: include/custom/importer/index.php:375 include/custom/importer/index.php:533 
+#: include/custom/importer/index.php:906 include/custom/importer/index.php:978
+msgid "Continue"
+msgstr ""
+
+#: include/custom/importer/index.php:376 include/custom/importer/index.php:534 
+#: include/custom/importer/index.php:907
+msgid "Skip this step"
+msgstr ""
+
+#: include/custom/importer/index.php:386
+msgid "No Slug Found"
+msgstr ""
+
+#: include/custom/importer/index.php:402
+msgid "Activating Plugin"
+msgstr ""
+
+#: include/custom/importer/index.php:417
+msgid "Updating Plugin"
+msgstr ""
+
+#: include/custom/importer/index.php:432
+msgid "Installing Plugin"
+msgstr ""
+
+#: include/custom/importer/index.php:442
+msgid "Success"
+msgstr ""
+
+#: include/custom/importer/index.php:454
+msgid "Pages"
+msgstr ""
+
+#: include/custom/importer/index.php:455
+msgid "This will create default pages as seen in the demo."
+msgstr ""
+
+#: include/custom/importer/index.php:456 include/custom/importer/index.php:464 
+#: include/custom/importer/index.php:472 include/custom/importer/index.php:480 
+#: include/custom/importer/index.php:488
+msgid "Pending."
+msgstr ""
+
+#: include/custom/importer/index.php:457
+msgid "Installing Default Pages."
+msgstr ""
+
+#: include/custom/importer/index.php:458 include/custom/importer/index.php:466 
+#: include/custom/importer/index.php:474 include/custom/importer/index.php:482 
+#: include/custom/importer/index.php:490
+msgid "Success."
+msgstr ""
+
+#: include/custom/importer/index.php:462
+msgid "Settings"
+msgstr ""
+
+#: include/custom/importer/index.php:463
+msgid "Configure default settings."
+msgstr ""
+
+#: include/custom/importer/index.php:465
+msgid "Installing Default Settings."
+msgstr ""
+
+#: include/custom/importer/index.php:470
+msgid "Theme options"
+msgstr ""
+
+#: include/custom/importer/index.php:471
+msgid "Configure default options for theme"
+msgstr ""
+
+#: include/custom/importer/index.php:473
+msgid "Installing Default Theme Settings."
+msgstr ""
+
+#: include/custom/importer/index.php:478
+msgid "Widgets"
+msgstr ""
+
+#: include/custom/importer/index.php:479
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: include/custom/importer/index.php:481
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: include/custom/importer/index.php:486
+msgid "Customize options"
+msgstr ""
+
+#: include/custom/importer/index.php:487
+msgid "Configure default customize settings"
+msgstr ""
+
+#: include/custom/importer/index.php:489
+msgid "Installing Default Customize Settings."
+msgstr ""
+
+#: include/custom/importer/index.php:504
+msgid "Default Content"
+msgstr ""
+
+#: include/custom/importer/index.php:506
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue."
+msgstr ""
+
+#: include/custom/importer/index.php:511
+msgid "Item"
+msgstr ""
+
+#: include/custom/importer/index.php:512
+msgid "Description"
+msgstr ""
+
+#: include/custom/importer/index.php:513
+msgid "Status"
+msgstr ""
+
+#: include/custom/importer/index.php:530
+msgid ""
+"Once inserted, this content can be managed from the WordPress admin "
+"dashboard."
+msgstr ""
+
+#: include/custom/importer/index.php:545
+msgid "No content Found"
+msgstr ""
+
+#: include/custom/importer/index.php:580
+msgid "Error"
+msgstr ""
+
+#: include/custom/importer/index.php:684
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: include/custom/importer/index.php:706
+msgid "Site does not support widget"
+msgstr ""
+
+#: include/custom/importer/index.php:729
+msgid "Widget already exists"
+msgstr ""
+
+#: include/custom/importer/index.php:778
+msgid "Imported"
+msgstr ""
+
+#: include/custom/importer/index.php:781
+msgid "Imported to Inactive"
+msgstr ""
+
+#: include/custom/importer/index.php:788
+msgid "No Title"
+msgstr ""
+
+#: include/custom/importer/index.php:860
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: include/custom/importer/index.php:862
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 190 by 35 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: include/custom/importer/index.php:880
+msgid "Upload New Logo"
+msgstr ""
+
+#: include/custom/importer/index.php:886
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: include/custom/importer/index.php:965
+msgid "Theme Customization"
+msgstr ""
+
+#: include/custom/importer/index.php:967
+msgid ""
+"Most changes to the website can be made through the Appearance > Customize "
+"menu from the WordPress dashboard."
+msgstr ""
+
+#: include/custom/importer/index.php:969
+msgid ""
+"To change the Sidebars go to Appearance > Widgets. Here widgets can be "
+"\"drag &amp; droped\" into sidebars. To control which \"widget areas\" "
+"appear, go to an individual page and look for the \"Left/Right Column\" menu."
+" Here widgets can be chosen for display on the left or right of a page. More "
+"details in documentation."
+msgstr ""
+
+#: include/custom/importer/index.php:972
+msgid ""
+"Advanced Users: If you are going to make changes to the theme source code "
+"please use a"
+msgstr ""
+
+#: include/custom/importer/index.php:973
+msgid "Child Theme"
+msgstr ""
+
+#: include/custom/importer/index.php:974
+#, php-format
+msgid ""
+"rather than modifying the main theme HTML/CSS/PHP code. This allows the "
+"parent theme to receive updates without overwriting your source code changes."
+" %s See %s in the main folder for a sample."
+msgstr ""
+
+#: include/custom/importer/index.php:985
+msgid "Help and Support"
+msgstr ""
+
+#: include/custom/importer/index.php:986
+msgid ""
+"This theme comes with 6 months item support from purchase date (with the "
+"option to extend this period). This license allows you to use this theme on "
+"a single website. Please purchase an additional license to use this theme on "
+"another website."
+msgstr ""
+
+#: include/custom/importer/index.php:989
+#, php-format
+msgid "Item Support can be accessed from %s and includes: "
+msgstr ""
+
+#: include/custom/importer/index.php:991
+msgid "Availability of the author to answer questions"
+msgstr ""
+
+#: include/custom/importer/index.php:992
+msgid "Answering technical questions about item features"
+msgstr ""
+
+#: include/custom/importer/index.php:993
+msgid "Assistance with reported bugs and issues"
+msgstr ""
+
+#: include/custom/importer/index.php:994
+msgid "Help with bundled 3rd party plugins"
+msgstr ""
+
+#: include/custom/importer/index.php:996
+#, php-format
+msgid "Item Support %s Include:"
+msgstr ""
+
+#: include/custom/importer/index.php:998
+msgid "Customization services"
+msgstr ""
+
+#: include/custom/importer/index.php:999
+msgid "Installation services"
+msgstr ""
+
+#: include/custom/importer/index.php:1000
+msgid ""
+"Help and Support for non-bundled 3rd party plugins (i.e. plugins you install "
+"yourself later on)"
+msgstr ""
+
+#: include/custom/importer/index.php:1005
+msgid "More details about item support can be found in the ThemeForest"
+msgstr ""
+
+#: include/custom/importer/index.php:1005
+msgid "Item Support Polity"
+msgstr ""
+
+#: include/custom/importer/index.php:1007
+msgid "Agree and Continue"
+msgstr ""
+
+#: include/custom/importer/index.php:1019
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: include/custom/importer/index.php:1021
+msgid ""
+"Congratulations! The theme has been activated and your website is ready. "
+"Login to your WordPress dashboard to make changes and modify any of the "
+"default content to suit your needs."
+msgstr ""
+
+#: include/custom/importer/index.php:1025
+msgid "Next Steps"
+msgstr ""
+
+#: include/custom/importer/index.php:1027
+msgid "VIEW YOUR NEW WEBSITE!"
+msgstr ""
+
+#: include/custom/importer/index.php:1031
+msgid "More Resources"
+msgstr ""
+
+#: include/custom/importer/index.php:1033
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: include/custom/importer/index.php:1034
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: include/custom/importer/importer/parsers.php:43 
+#: include/custom/importer/importer/parsers.php:77 
+#: include/custom/importer/importer/parsers.php:85
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/custom/importer/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: include/custom/importer/importer/parsers.php:89 
+#: include/custom/importer/importer/parsers.php:94 
+#: include/custom/importer/importer/parsers.php:287 
+#: include/custom/importer/importer/parsers.php:476
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:124 
+#: include/custom/importer/importer/wordpress-importer.php:133 
+#: include/custom/importer/importer/wordpress-importer.php:184 
+#: include/custom/importer/importer/wordpress-importer.php:188 
+#: include/custom/importer/importer/wordpress-importer.php:197
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:125
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:168
+msgid "All done."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:168
+msgid "Have fun!"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:169
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:189
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:205
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:230
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:256
+msgid "Assign Authors"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:257
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:259
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:269
+msgid "Import Attachments"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:272
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:289
+msgid "Import author:"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:300
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:303
+msgid "as a new user:"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:311
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:313
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:314
+msgid "- Select -"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:364
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:415
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:455
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:501 
+#: include/custom/importer/importer/wordpress-importer.php:642
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:549
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:608
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:773
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:780
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:843
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:856
+msgid "Invalid file type"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:914
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:927
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:932
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:938
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:1037
+msgid "Import WordPress"
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:1044
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:1059
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:1060
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/custom/importer/importer/wordpress-importer.php:1135
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#. Name of the theme
+msgid "Antica"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A stunning visual experience for minimal loving creative. This template is a "
+"responsive and retina-ready Wordpress theme with grid system layout. It is "
+"optimized for mobile touch and swipe."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.qodearena.com/projects/anticawp/"
+msgstr ""
+
+#. Author of the theme
+msgid "QodeArena"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/qodearena"
+msgstr ""
